@@ -24,6 +24,7 @@ The excel wookbook has 4 different tables. These tables are related with each ot
 
 ![Data model](https://user-images.githubusercontent.com/72034856/170734560-5e9260a7-88ee-4302-b760-370b3751f0ae.PNG)
 
+
 ## Dax and Measures Created For Insight
 
 1) Base Measures
@@ -78,6 +79,8 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 ![Assessment Report1](https://user-images.githubusercontent.com/72034856/170714334-c88b060e-5ff6-48b6-86fc-a6b6287bb637.png)
 
+### Link to report1: https://github.com/Raph-09/Assessment/blob/main/Assessment%20Report1.pbix
+
 
 # PROCUREMENT REPORT(REPORT 2)
 ### Dataset: procurement dataset
@@ -120,6 +123,8 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 ![Assesment Report 2](https://user-images.githubusercontent.com/72034856/170714427-4fda7c28-f7c8-43e3-bc99-6fdd68171a56.png)
 
+### Linkt to report2:https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report%202.pbix 
+
 # WORK ORDER(REPORT 3)
 
 ## ETL and Data Cleaning
@@ -160,3 +165,5 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 
 ![Assesment Report3](https://user-images.githubusercontent.com/72034856/170714519-caec2b94-b2a7-41fc-8b08-124339f43f9d.png)
+
+### Link to report3: https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report3.pbix
