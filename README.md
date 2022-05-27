@@ -79,7 +79,7 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 ![Assessment Report1](https://user-images.githubusercontent.com/72034856/170714334-c88b060e-5ff6-48b6-86fc-a6b6287bb637.png)
 
-### Link to report1: https://github.com/Raph-09/Assessment/blob/main/Assessment%20Report1.pbix
+# [Link to report1] (https://github.com/Raph-09/Assessment/blob/main/Assessment%20Report1.pbix)
 
 
 # PROCUREMENT REPORT(REPORT 2)
