@@ -1,5 +1,3 @@
-# DATA ANALYST ASSESSMENT
-
 # SALES REPORT(REPORT 1)
 
 ### Data Source: Nubiaville Recruitment team(sales test data)
@@ -180,7 +178,7 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 ![Assesment Report3](https://user-images.githubusercontent.com/72034856/170714519-caec2b94-b2a7-41fc-8b08-124339f43f9d.png)
 
-### [Link to report3](https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report3.pbix)
+### [Link to PowerBI](https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report3.pbix)
 
 ## How to download
 1) Cick on the link above and you will be directed to my github
