@@ -1,6 +1,6 @@
-# SALES REPORT(REPORT 1)
+# SALES DATA ANALYSIS (REPORT 1)
 
-### Data Source: Nubiaville Recruitment team(sales test data)
+### Data Source: [sales test data.xlsl](https://www.dropbox.com/s/225grb6nw5q1pb8/sales%20test%20data.xlsx?dl=0)
 ## ETL And Data Cleaning
 Data claning and ETL is the process of obtaining the data using a data connector, transforming the data into useful format using power query editor and loading it into report view for visualization and analysis. 
 The folowing steps where taken to clean this dataset:
@@ -23,7 +23,7 @@ The excel wookbook has 4 different tables. These tables are related with each ot
 ![Data model](https://user-images.githubusercontent.com/72034856/170734560-5e9260a7-88ee-4302-b760-370b3751f0ae.PNG)
 
 
-## Dax and Measures Created For Insight
+## Dax and Measures Created For Insights
 
 1) Base Measures
 
@@ -87,8 +87,8 @@ This the fun stage where the data is converted into beautiful visualization. The
 3) Ensure you have powerBI installed
 
 
-# PROCUREMENT REPORT(REPORT 2)
-### Dataset: procurement dataset
+# PROCUREMENT DATA ANALYSIS (REPORT 2)
+### Dataset: [procurement dataset.xlsl](https://www.dropbox.com/s/ijr8ros3fnkwjbk/procurement%20data.xlsx?dl=0)
 
 ## ETL and Data Cleaning
 1) Excel data connector was used to fetch the data from my local storage
@@ -128,7 +128,7 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 ![Assesment Report 2](https://user-images.githubusercontent.com/72034856/170714427-4fda7c28-f7c8-43e3-bc99-6fdd68171a56.png)
 
-### [Link to PowerBI file](https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report%202.pbix) 
+# [Link to PowerBI file](https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report%202.pbix) 
 
 ## How to download
 1) Cick on the link above and you will be directed to my github
@@ -178,7 +178,7 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 ![Assesment Report3](https://user-images.githubusercontent.com/72034856/170714519-caec2b94-b2a7-41fc-8b08-124339f43f9d.png)
 
-### [Link to PowerBI](https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report3.pbix)
+# [Link to PowerBI File](https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report3.pbix)
 
 ## How to download
 1) Cick on the link above and you will be directed to my github
