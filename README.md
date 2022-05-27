@@ -79,7 +79,14 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 ![Assessment Report1](https://user-images.githubusercontent.com/72034856/170714334-c88b060e-5ff6-48b6-86fc-a6b6287bb637.png)
 
-# [Link to report1] (https://github.com/Raph-09/Assessment/blob/main/Assessment%20Report1.pbix)
+# [Link to PowerBI file](https://github.com/Raph-09/Assessment/blob/main/Assessment%20Report1.pbix)
+
+## How to download
+1) Cick on the link above and you will de directed to my github
+
+2) Click on download
+
+3) Ensure you have powerBI installed
 
 
 # PROCUREMENT REPORT(REPORT 2)
@@ -123,7 +130,14 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 ![Assesment Report 2](https://user-images.githubusercontent.com/72034856/170714427-4fda7c28-f7c8-43e3-bc99-6fdd68171a56.png)
 
-### Linkt to report2:https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report%202.pbix 
+### [Link to PowerBI file](https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report%202.pbix) 
+
+## How to download
+1) Cick on the link above and you will de directed to my github
+
+2) Click on download
+
+3) Ensure you have powerBI installed
 
 # WORK ORDER(REPORT 3)
 
@@ -166,4 +180,11 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 ![Assesment Report3](https://user-images.githubusercontent.com/72034856/170714519-caec2b94-b2a7-41fc-8b08-124339f43f9d.png)
 
-### Link to report3: https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report3.pbix
+### [Link to report3](https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report3.pbix)
+
+## How to download
+1) Cick on the link above and you will de directed to my github
+
+2) Click on download
+
+3) Ensure you have powerBI installed
