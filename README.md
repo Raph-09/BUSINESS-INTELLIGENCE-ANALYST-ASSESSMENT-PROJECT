@@ -87,6 +87,9 @@ This the fun stage where the data is converted into beautiful visualization. The
 3) Ensure you have powerBI installed
 
 
+#
+
+
 # PROCUREMENT DATA ANALYSIS (REPORT 2)
 ### Dataset: [procurement dataset.xlsl](https://www.dropbox.com/s/ijr8ros3fnkwjbk/procurement%20data.xlsx?dl=0)
 
@@ -137,6 +140,7 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 3) Ensure you have powerBI installed
 
+#
 
 
 # WORK ORDER DATA ANALYSIS (REPORT 3)
