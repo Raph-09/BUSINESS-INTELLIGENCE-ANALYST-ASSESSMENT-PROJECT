@@ -82,7 +82,7 @@ This the fun stage where the data is converted into beautiful visualization. The
 # [Link to PowerBI file](https://github.com/Raph-09/Assessment/blob/main/Assessment%20Report1.pbix)
 
 ## How to download
-1) Cick on the link above and you will de directed to my github
+1) Cick on the link above and you will be directed to my github
 
 2) Click on download
 
@@ -133,7 +133,7 @@ This the fun stage where the data is converted into beautiful visualization. The
 ### [Link to PowerBI file](https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report%202.pbix) 
 
 ## How to download
-1) Cick on the link above and you will de directed to my github
+1) Cick on the link above and you will be directed to my github
 
 2) Click on download
 
@@ -183,7 +183,7 @@ This the fun stage where the data is converted into beautiful visualization. The
 ### [Link to report3](https://github.com/Raph-09/Assessment/blob/main/Assesment%20Report3.pbix)
 
 ## How to download
-1) Cick on the link above and you will de directed to my github
+1) Cick on the link above and you will be directed to my github
 
 2) Click on download
 
