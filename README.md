@@ -141,7 +141,7 @@ This the fun stage where the data is converted into beautiful visualization. The
 
 # WORK ORDER DATA ANALYSIS (REPORT 3)
 
-## Data Source:[procdata.xlsl](https://www.dropbox.com/s/um5ip3rupt4q8b8/procdata.xlsx?dl=0)
+## Data Source: [procdata.xlsl](https://www.dropbox.com/s/um5ip3rupt4q8b8/procdata.xlsx?dl=0)
 
 ## ETL and Data Cleaning
 
